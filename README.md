@@ -11,6 +11,7 @@ Install dependencies:
 ```bash
 brew install portaudio
 brew link portaudio
+pip install setuptools
 ```
 
 Update your pydistutils config file for portaudio usage by running the following:
