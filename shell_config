@@ -1,0 +1,4 @@
+export INPUT_DEVICE_NAME='Built-in Microphone'
+export WAKE_WORD='VOICE'
+export SAFE_WORD='STOP'
+export OPENAI_API_KEY='my-open-ai-key'
